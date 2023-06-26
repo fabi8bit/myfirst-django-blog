@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['codestar2023-fabi8.herokuapp.com', '8000-fabi8bit-myfirstdjangob-mdcvecy5fzl.ws-eu100.gitpod.io']
+ALLOWED_HOSTS = ['codestar2023-fabi8-9a711e8c1e09.herokuapp.com', '8000-fabi8bit-myfirstdjangob-mdcvecy5fzl.ws-eu100.gitpod.io']
 
 
 # Application definition
